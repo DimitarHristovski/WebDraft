@@ -41,30 +41,3 @@ export function WhatWeDo() {
     </div>
   );
 }
-// <div className="WWD-Container">
-//   <h1 className="Top-Header">WhatWeDo</h1>
-//   <div className="Above">
-//     <imgv
-//       src={WhatWeDoElements[0].image}
-//       alt="dasdasd"
-//       className="image1"
-//     ></imgv>
-//     <div className="right-text-content">
-//       {" "}
-//       <h2 className="heading">Mission</h2>
-//       <p className="Wpar">{WhatWeDoElements[0].text}</p>
-//     </div>
-//   </div>
-//   <div className="Below">
-//     <img
-//       src={WhatWeDoElements[1].image}
-//       alt="adasdsd"
-//       className="image2"
-//     ></img>
-//     <div className="left-text-content">
-//       {" "}
-//       <h2 className="heading">Vision</h2>
-//       <p className="Wpar">{WhatWeDoElements[1].text}</p>
-//     </div>
-//   </div>
-// </div>

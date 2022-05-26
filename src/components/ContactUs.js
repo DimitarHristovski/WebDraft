@@ -69,24 +69,3 @@ export function ContactUs() {
     </div>
   );
 }
-
-// <form action="https://formsubmit.co/dimihbt@yahoo.com" method="POST">
-//         <input type="hidden" name="_subject" value="New email" />
-//         <label>Email</label>
-
-//         <input
-//           type="email"
-//           name="email"
-//           placeholder=" Email Address"
-//           required
-//         />
-//         <label>Message</label>
-
-//         <input
-//           type="text"
-//           name="message"
-//           placeholder=" write message"
-//           required
-//         />
-//         <button type="submit">Send</button>
-//       </form>

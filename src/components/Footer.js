@@ -35,9 +35,3 @@ export function Footer() {
     </div>
   );
 }
-// Writing of content
-// above footer line of pictures
-// connect links in org
-// Dimitar Hristovski Link portfolio
-// backt to toparrow for up to home
-// Social Follow
